@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591681135 source:e:\myfile\os\os--homework\os-work\main.cpp
+	"File.h"
+
+1591686457 e:\myfile\os\os--homework\os-work\file.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string>
+
