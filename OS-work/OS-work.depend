@@ -1,6 +1,5 @@
 # depslib dependency file v1.0
-1591681135 source:e:\myfile\os\os--homework\os-work\main.cpp
-	"File.h"
+1591704245 source:e:\myfile\os\os--homework\os-work\main.cpp
 
 1591686457 e:\myfile\os\os--homework\os-work\file.h
 	<iostream>
@@ -10,4 +9,9 @@
 	<windows.h>
 	<conio.h>
 	<string>
+
+1591686743 source:e:\myfile\os\os--homework\os-work\os.cpp
+
+1591703092 source:e:\myfile\os\os--homework\os-work\show_file.cpp
+	"File.h"
 

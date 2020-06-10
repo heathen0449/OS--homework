@@ -16,9 +16,9 @@ string UserName[8]={"user1","user2","user3","user4",
 string Password[8] ={"12345","12345","12345","12345",
 "12345","12345","12345","12345"
 };
-
 int login_userid=-1; //目前登陆用户编号
 int filearray[8]={-1,-1,-1,-1,-1,-1,-1,-1,};
+int file_array_head;
 int physic[100]; //文件地址缓冲区     ?我觉得这个地方可以改改
 int style=1; //文件类型  ?我觉得这个地方可以改改
 string cur_dir[10]="filestem"; //当前目录
